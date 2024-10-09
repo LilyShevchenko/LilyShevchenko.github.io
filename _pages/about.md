@@ -7,7 +7,7 @@ subtitle: liliia.shevchenko@warwick.ac.uk
 profile:
   align: right
   image: profile_picture.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info:
 
 news: false # includes a list of news items
