@@ -15,16 +15,16 @@
       "region": ""
     }
   },
-  "education": [
-    {
-      "institution": "University of Warwick",
-      "location": "Coventry, United Kingdom",
-      "url": "https://warwick.ac.uk/fac/soc/economics/staff/lshevchenko/",
-      "area": "Economics",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "Present",
-    }
+    "education": [
+        {
+            "institution":"University of Warwick",
+            "location": "Coventry, United Kingdom",
+            "url": "https://warwick.ac.uk/fac/soc/economics/staff/lshevchenko/",
+            "area": "Economics",
+            "studyType": "PhD",
+            "startDate": "2021-01-01",
+            "endDate": "Present"
+        }
   ],
   "work": [
     {
@@ -33,8 +33,7 @@
       "url": "https://finance.skolkovo.ru/en/sfice/about/",
       "startDate": "2020-02-01",
       "endDate": "2021-09-01",
-      "summary": "",
-      "highlights": [""]
+      "summary": ""
     }
   ],
   "skills": [
