@@ -22,8 +22,32 @@
             "url": "https://warwick.ac.uk/fac/soc/economics/staff/lshevchenko/",
             "area": "Economics",
             "studyType": "PhD",
-            "startDate": "2021-01-01",
+            "startDate": "2023-09-01",
             "endDate": "Present"
+        },
+      {
+            "institution":"University of Warwick",
+            "location": "Coventry, United Kingdom",
+            "area": "Economics",
+            "studyType": "Master of Research",
+            "startDate": "2021-09-01",
+            "endDate": "2023-09-01"
+        },
+      {
+            "institution":"New Economic School",
+            "location": "Moscow, Russia",
+            "area": "Finance",
+            "studyType": "Master of Arts",
+            "startDate": "2018-09-01",
+            "endDate": "2020-09-01"
+        },
+       {
+            "institution":"Moscow State University of International Relations (MGIMO)",
+            "location": "Moscow, Russia",
+            "area": "Journalism",
+            "studyType": "Bachelor",
+            "startDate": "2014-09-01",
+            "endDate": "2018-09-01"
         }
   ],
   "work": [
@@ -43,11 +67,41 @@
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "Python",
-        "R",
-        "SQL",
-        "Stata"
+        "R"
       ]
-    }
+    },
+    {
+      "name": "Data Collection & Analysis",
+      "level": "Adept",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "SQL",
+        "Stata",
+        "QGIS",
+        "Qualtrics",
+        "Tableau"
+      ]
+    },
+    {
+      "name": "Machine Learning & NLP",
+      "level": "Adept",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Tensorflow",
+        "Keras",
+        "PyTorch",
+        "LIWC"
+      ]
+    },
+    {
+      "name": "Financial Data",
+      "level": "Adept",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Thompson Reuters",
+        "Bloomberg"
+      ]
+    } 
   ],
   "languages": [
     {
@@ -58,6 +112,11 @@
     {
       "language": "English",
       "fluency": "Fluent",
+      "icon": ""
+    },
+    {
+      "language": "German",
+      "fluency": "Intermediate",
       "icon": ""
     }
   ],
