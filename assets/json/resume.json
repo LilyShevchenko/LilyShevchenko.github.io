@@ -58,24 +58,43 @@
       "startDate": "2020-02-01",
       "endDate": "2021-09-01",
       "summary": ""
+    },
+    {
+      "name": "New Economic School",
+      "position": "Teaching Assistant",
+      "url": "https://www.nes.ru/official&lang=en",
+      "startDate": "2019-06-01",
+      "endDate": "2021-06-01",
+      "summary": "",
+      "highlights": [
+        "Machine Learning",
+        "Data Analysis in Python",
+        "Economics of Exhaustible Resources"     
+    ]
+    },
+    {
+      "name": "Yandex",
+      "position": "Intern in consumer analytics",
+      "url": "https://yandex.com/",
+      "startDate": "2019-07-01",
+      "endDate": "2019-11-01",
+      "summary": ""
     }
   ],
   "skills": [
     {
       "name": "Programming",
-      "level": "Adept",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "Python",
-        "R"
+        "R",
+        "SQL"
       ]
     },
     {
       "name": "Data Collection & Analysis",
-      "level": "Adept",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "SQL",
         "Stata",
         "QGIS",
         "Qualtrics",
@@ -84,7 +103,6 @@
     },
     {
       "name": "Machine Learning & NLP",
-      "level": "Adept",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "Tensorflow",
@@ -95,7 +113,6 @@
     },
     {
       "name": "Financial Data",
-      "level": "Adept",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "Thompson Reuters",
@@ -122,9 +139,8 @@
   ],
   "references": [
     {
-      "name": "Academic references",
-      "icon": "",
-      "reference": "Available on request"
+      "name": "Academic references available on request",
+      "icon": ""
     }
   ]
 }
