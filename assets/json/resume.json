@@ -15,40 +15,40 @@
       "region": ""
     }
   },
-    "education": [
-        {
-            "institution":"University of Warwick",
-            "location": "Coventry, United Kingdom",
-            "url": "https://warwick.ac.uk/fac/soc/economics/staff/lshevchenko/",
-            "area": "Economics",
-            "studyType": "PhD",
-            "startDate": "2023-09-01",
-            "endDate": "Present"
-        },
+  "education": [
       {
-            "institution":"University of Warwick",
-            "location": "Coventry, United Kingdom",
-            "area": "Economics",
-            "studyType": "Master of Research",
-            "startDate": "2021-09-01",
-            "endDate": "2023-09-01"
-        },
-      {
-            "institution":"New Economic School",
-            "location": "Moscow, Russia",
-            "area": "Finance",
-            "studyType": "Master of Arts",
-            "startDate": "2018-09-01",
-            "endDate": "2020-09-01"
-        },
-       {
-            "institution":"Moscow State University of International Relations (MGIMO)",
-            "location": "Moscow, Russia",
-            "area": "Journalism",
-            "studyType": "Bachelor",
-            "startDate": "2014-09-01",
-            "endDate": "2018-09-01"
-        }
+          "institution":"University of Warwick",
+          "location": "Coventry, United Kingdom",
+          "url": "https://warwick.ac.uk/fac/soc/economics/staff/lshevchenko/",
+          "area": "Economics",
+          "studyType": "PhD",
+          "startDate": "2023-09-01",
+          "endDate": "Present"
+      },
+    {
+          "institution":"University of Warwick",
+          "location": "Coventry, United Kingdom",
+          "area": "Economics",
+          "studyType": "Master of Research",
+          "startDate": "2021-09-01",
+          "endDate": "2023-09-01"
+      },
+    {
+          "institution":"New Economic School",
+          "location": "Moscow, Russia",
+          "area": "Finance",
+          "studyType": "Master of Arts",
+          "startDate": "2018-09-01",
+          "endDate": "2020-09-01"
+      },
+     {
+          "institution":"Moscow State University of International Relations (MGIMO)",
+          "location": "Moscow, Russia",
+          "area": "Journalism",
+          "studyType": "Bachelor",
+          "startDate": "2014-09-01",
+          "endDate": "2018-09-01"
+      }
   ],
   "work": [
     {
@@ -66,11 +66,7 @@
       "startDate": "2019-06-01",
       "endDate": "2021-06-01",
       "summary": "",
-      "highlights": [
-        "Machine Learning",
-        "Data Analysis in Python",
-        "Economics of Exhaustible Resources"     
-    ]
+      "highlights": ["Machine Learning","Data Analysis in Python","Economics of Exhaustible Resources"]
     },
     {
       "name": "Yandex",
@@ -85,40 +81,23 @@
     {
       "name": "Programming",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Python",
-        "R",
-        "SQL"
-      ]
+      "keywords": ["Python","R","SQL"]
     },
     {
       "name": "Data Collection & Analysis",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Stata",
-        "QGIS",
-        "Qualtrics",
-        "Tableau"
-      ]
+      "keywords": ["Stata","QGIS","Qualtrics","Tableau"]
     },
     {
       "name": "Machine Learning & NLP",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Tensorflow",
-        "Keras",
-        "PyTorch",
-        "LIWC"
-      ]
+      "keywords": ["Tensorflow","Keras","PyTorch","LIWC"]
     },
     {
       "name": "Financial Data",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Thompson Reuters",
-        "Bloomberg"
-      ]
-    } 
+      "keywords": ["Thompson Reuters","Bloomberg"]
+    }
   ],
   "languages": [
     {
