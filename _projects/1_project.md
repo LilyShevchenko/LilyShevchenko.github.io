@@ -2,7 +2,7 @@
 layout: page
 title: Can hate speech be banned online? Evidence from Reddit
 description: with Adam di Lizia
-img: assets/img/12.jpg
+img: assets/img/reddit_raw_data_volume.jpg
 importance: 1
 category: work
 related_publications: true
