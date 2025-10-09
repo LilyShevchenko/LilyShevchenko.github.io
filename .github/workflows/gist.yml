@@ -4,14 +4,14 @@ on: push
 
 jobs:
   update-resume-gist:
-    runs-on: ubuntu-latest 
+    runs-on: ubuntu-latest
     steps:
-    - name: Checkout Repository
-      uses: actions/checkout@v3
+      - name: Checkout Repository
+        uses: actions/checkout@v3
 
-    - name: Update Resume Gist
-      uses: exuanbo/actions-deploy-gist@v1
-      with:
-        token: ${{ secrets.TOKEN }}
-        gist_id: be730baa1549c5f310327837cad33373
-        file_path: assets/json/resume.json
+      - name: Update Resume Gist
+        uses: exuanbo/actions-deploy-gist@v1
+        with:
+          token: ${{ secrets.TOKEN }}
+          gist_id: be730baa1549c5f310327837cad33373
+          file_path: assets/json/resume.json
