@@ -15,11 +15,3 @@ jobs:
           token: ${{ secrets.TOKEN }}
           gist_id: be730baa1549c5f310327837cad33373
           file_path: assets/json/resume.json
-          
-      - name: jsonresume-generator
-        uses: Devleaps/jsonresume-generator@v1.1.0
-        with:
-          action: "render"
-          file: "resume.json"
-          folder: "assets/json"
-          output-type: "PDF"
