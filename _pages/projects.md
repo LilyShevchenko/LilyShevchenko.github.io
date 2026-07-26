@@ -9,7 +9,7 @@ display_categories:
 horizontal: true
 ---
 
-## Working Papers
+### Working papers
 
 #### Can hate speech be banned online? The effects of shutting down toxic forums on Reddit
 
@@ -22,8 +22,13 @@ with Thiemo Fetzer
 
 **Abstract:** Ubiquitous culturally shaped spatial institutions may pose a barrier to climate action at a large cost to the global commons. Studying data on the full English housing stock, we document that conservation areas -- designations created to preserve the aesthetic \emph{character} of a neighbourhood not uncommon across the globe -- may be responsible for 3 to 4 million tonnes of avoidable CO2 emissions annually. Using a suite of microeconometric methods, we show that properties in conservation areas are less energy efficient, exhibit lower level of retrofit investment, and consume notably more energy. The effects can be directly attributed to increased retrofit costs. The added planning restrictions, by increasing the administrative burden and associated costs and slowing down local planning processes, have further negative spillover effects on spatial development outside conservation areas.
 
+### Selected work in progress
 
-## Other Projects
+#### Context windows in politics: Evidence from UK Hansard
+
+**Summary:**
+
+### Other projects
 
 #### Folklore as data
 _MRes dissertation_
