@@ -141,7 +141,7 @@ html[data-theme-setting="dark"] {
 }
 
 html[data-theme="light"] {
-  --global-bg-color: #{$grey-color-light};
+  --global-bg-color: #{$white-color};
   --global-code-bg-color: #{$code-bg-color-light};
   --global-text-color: #{$black-color};
   --global-text-color-light: #{$grey-color};
@@ -150,7 +150,7 @@ html[data-theme="light"] {
   --global-hover-text-color: #{$dark-goldenrod-color};
   --global-footer-bg-color: #{$grey-color-dark};
   --global-footer-text-color: #{$grey-color-light};
-  --global-footer-link-color: #{$grey-color};
+  --global-footer-link-color: #{$dark-goldenrod-color};
   --global-distill-app-color: #{$grey-color-dark};
   --global-divider-color: rgba(0, 0, 0, 0.1);
   --global-card-bg-color: #{$white-color};
