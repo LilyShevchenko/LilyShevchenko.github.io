@@ -1,10 +1,10 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 description: Currently taught courses.
 nav: true
-nav_order: 6
+nav_order: 5
 ---
 
 #### EC9D8 Foundations of Data Science (2025/26)
