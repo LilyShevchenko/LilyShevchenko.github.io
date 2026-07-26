@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: liliia.shevchenko@warwick.ac.uk
 
@@ -15,4 +15,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am a third year PhD student in Economics in [University of Warwick](https://warwick.ac.uk/) primarily interested in political economy. My research uses unconventional data and methods from computational linguistics to study how norms and beliefs affect economic behaviour.
+I am a third year PhD student in Economics in **[University of Warwick](https://warwick.ac.uk/)** primarily interested in political economy. My research uses unconventional data and methods from computational linguistics to study how norms and beliefs affect economic behaviour.
