@@ -153,7 +153,7 @@ html[data-theme="light"] {
   --global-footer-link-color: #{$grey-color};
   --global-distill-app-color: #{$grey-color-dark};
   --global-divider-color: rgba(0, 0, 0, 0.1);
-  --global-card-bg-color: #{$grey-100};
+  --global-card-bg-color: #{$white-color};
   --global-back-to-top-bg-color: rgba(
     #{color.channel($white-color, "red", $space: rgb)},
     #{color.channel($white-color, "green", $space: rgb)},
