@@ -152,16 +152,17 @@ ul.task-list input[type="checkbox"] {
 
 .cbtn {
   display: inline-block;
-  padding: 10px 20px;
-  background-color: #d6e2fc;
-  color: white;
+  padding: 8px 20px;
+  background-color: white;
+  color: #212529;
+  border: 2px solid #4f79ea;
   text-decoration: none;
-  border-radius: 6px;
+  border-radius: 999px;
   font-weight: 400;
 }
 
 .cbtn:hover {
-  background-color: #4f79ea;
+  background-color: #e8eefc;
 }
 
 // Math
