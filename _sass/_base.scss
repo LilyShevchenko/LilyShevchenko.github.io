@@ -152,10 +152,10 @@ ul.task-list input[type="checkbox"] {
 
 .cbtn {
   display: inline-block;
-  padding: 6px 18px;
+  padding: 6px 10px;
   background-color: white;
   color: #2062a0;
-  border: 3px solid #2062a0;
+  border: 1px solid #2062a0;
   text-decoration: none;
   border-radius: 999px;
   font-weight: 400;
@@ -185,6 +185,7 @@ ul.task-list input[type="checkbox"] {
 
 .card {
   background-color: var(--global-card-bg-color);
+  border-radius: 10px;
 
   .card-img {
     width: 100%;
@@ -193,10 +194,12 @@ ul.task-list input[type="checkbox"] {
 
   .card-title {
     color: var(--global-text-color);
+    font-weight: 400;
   }
 
   .card-body {
     padding: 1.25rem 1.25rem 1.25rem 1.25rem;
+    font-weight: 300;
   }
 }
 
