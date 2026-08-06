@@ -9,7 +9,7 @@ display_categories:
 horizontal: true
 ---
 
-<div class="card mb-3">
+<div class="card mb-5">
   <div class="card-body">
     <h5 class="card-title">
       Can hate speech be banned online? The effects of shutting down toxic forums on Reddit
@@ -23,7 +23,7 @@ horizontal: true
   </div>
 </div>
 
-<div class="card mb-3">
+<div class="card mb-5">
   <div class="card-body">
     <h5 class="card-title">
       Regulatory Barriers to Climate Action: Evidence from Conservation Areas in England
@@ -35,7 +35,7 @@ horizontal: true
   </div>
 </div>
 
-<div class="card mb-3">
+<div class="card mb-5">
   <div class="card-body">
     <h5 class="card-title">
       Context windows in politics: Evidence from UK Hansard
@@ -47,7 +47,7 @@ horizontal: true
   </div>
 </div>
 
-<div class="card mb-3">
+<div class="card mb-5">
   <div class="card-body">
     <h5 class="card-title">
       Folklore as data
