@@ -9,6 +9,36 @@ display_categories:
 horizontal: true
 ---
 
+<div class="card mb-4">
+  <div class="card-body">
+    <h5 class="card-title">
+      Can hate speech be banned online? The effects of shutting down toxic forums on Reddit
+    </h5>
+
+    <a class="btn btn-sm btn-outline-dark mb-2" data-bs-toggle="collapse" href="#abstract-jmp" role="button" aria-expanded="false" aria-controls="abstract-jmp">
+      Abstract
+    </a>
+    <div class="collapse" id="abstract-jmp">
+      <p class="card-text mt-2">
+        Is deplatforming effective in reducing toxicity on social media? To answer this question we study a policy change on
+        Reddit in June 2020 which led to a simultaneous ban of thousands of forums containing hateful content, but not the
+        users of these forums. We use data on the near universe of comments left on Reddit to examine the impact of the ban on
+        user behaviour in a differences-in-differences design. We find that the most active users of banned subreddits comment
+        more after the policy change and substitute to new forums in the weeks after the ban. The increase in activity
+        persists in the long run, but is not associated with higher toxicity: instead, the comments left by affected users
+        outside banned subreddits contain 20% fewer instances of hate speech. We do not find evidence that the policy leads to
+        lower quality of engagement, negative spillover effects or recreation of banned subreddits elsewhere on the platform.
+        Overall, the results suggest that moderation targeting toxic digital spaces can be effective in combating hate speech
+        without lowering user engagement, and thus can be aligned with platforms' incentives.
+      </p>
+    </div>
+
+    <div class="mt-2">
+      <a href="https://drive.google.com/file/d/1X0pOf_Ngp2KuHXLiZQcvEg4CgstMWa_B/view?usp=sharing" class="btn btn-outline-primary btn-sm" target="_blank">Latest</a>
+    </div>
+  </div>
+</div>
+
 
 #### Can hate speech be banned online? The effects of shutting down toxic forums on Reddit
 
