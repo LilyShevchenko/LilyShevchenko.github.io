@@ -151,18 +151,18 @@ ul.task-list input[type="checkbox"] {
 // Nav buttons
 
 .cbtn {
+  background-color: var(--global-bg-color);
+  border-color: var(--global-theme-color);
   display: inline-block;
   padding: 6px 10px;
-  background-color: white;
-  color: #2062a0;
-  border: 1px solid #2062a0;
+  border: 1px solid;
   text-decoration: none;
   border-radius: 999px;
   font-weight: 400;
 }
 
 .cbtn:hover {
-  background-color: #e8eefc;
+  background-color: var(--global-hover-color);
 }
 
 // Math
