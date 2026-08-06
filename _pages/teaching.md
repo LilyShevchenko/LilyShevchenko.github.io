@@ -7,15 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-#### EC9D8 Foundations of Data Science (Term 1)
-
-MSc Economics and Data Science, University of Warwick <a href="https://warwick.ac.uk/fac/soc/economics/current/modules/ec9d8/" class="cbtn">Course Page</a>
-
-**Overview:**
-- Block 1: Introduction to Python.
-- Block 2: Introduction to R.
-
-#### EC349 Data Science for Economists (Term 2)
+#### EC349 Data Science for Economists [Term 2]
 
 UG Economics, University of Warwick, slides available on request <a href="https://warwick.ac.uk/fac/soc/economics/current/modules/ec349/" class="cbtn">Course Page</a>
 
@@ -38,3 +30,7 @@ UG Economics, University of Warwick, slides available on request <a href="https:
   - FNN with brulee as base learner
   - S-, T- and X-learners
   - Cross-fitted AIPW and method comparison.
+
+#### EC9D8 Foundations of Data Science [Term 1]
+
+MSc Economics and Data Science, University of Warwick <a href="https://warwick.ac.uk/fac/soc/economics/current/modules/ec9d8/" class="cbtn">Course Page</a>
