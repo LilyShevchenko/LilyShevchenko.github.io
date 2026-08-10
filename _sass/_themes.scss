@@ -79,14 +79,14 @@ html[data-theme="dark"] {
   --global-bg-color: #{$carbon-black-color};
   --global-code-bg-color: #{$carbon-black-color};
   --global-text-color: #{$bright-snow-color};
-  --global-text-color-light: #{$grey-color};
-  --global-theme-color: #{$baltic-blue-color};
-  --global-hover-color: #{$pale-sky-color};
-  --global-hover-text-color: #{$pale-sky-color};
-  --global-footer-bg-color: #{$grey-color-light};
-  --global-footer-text-color: #{$grey-color-dark};
-  --global-footer-link-color: #{$black-color};
-  --global-distill-app-color: #{$grey-color-light};
+  --global-text-color-light: #{$bright-snow-color};
+  --global-theme-color: #{$pale-sky-color};
+  --global-hover-color: #{$bright-ocean-color};
+  --global-hover-text-color: #{$bright-ocean-color};
+  --global-footer-bg-color: #{$carbon-black-color};
+  --global-footer-text-color: #{$bright-snow-color};
+  --global-footer-link-color: #{$pale-sky-color};
+  --global-distill-app-color: #{$pale-sky-color};
   --global-divider-color: #424246;
   --global-card-bg-color: #{$graphite-color};
   --global-back-to-top-bg-color: rgba(
@@ -147,14 +147,14 @@ html[data-theme="light"] {
   --global-text-color: #{$carbon-black-color};
   --global-text-color-light: #{$grey-color};
   --global-theme-color: #{$baltic-blue-color};
-  --global-hover-color: #{$pale-sky-color};
-  --global-hover-text-color: #{$pale-sky-color};
-  --global-footer-bg-color: #{$grey-color-dark};
-  --global-footer-text-color: #{$grey-color-light};
+  --global-hover-color: #{$bright-ocean-color};
+  --global-hover-text-color: #{$bright-ocean-color};
+  --global-footer-bg-color: #{$bright-snow-color};
+  --global-footer-text-color: #{$carbon-black-color};
   --global-footer-link-color: #{$baltic-blue-color};
-  --global-distill-app-color: #{$grey-color-dark};
+  --global-distill-app-color: #{$carbon-black-color};
   --global-divider-color: rgba(0, 0, 0, 0.1);
-  --global-card-bg-color: #{$bright-snow-color};
+  --global-card-bg-color: #{$pale-sky-color};
   --global-back-to-top-bg-color: rgba(
     #{color.channel($white-color, "red", $space: rgb)},
     #{color.channel($white-color, "green", $space: rgb)},
