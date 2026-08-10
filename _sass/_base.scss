@@ -154,16 +154,16 @@ ul.task-list input[type="checkbox"] {
   background-color: var(--global-card-bg-color);
   border-color: var(--global-theme-color);
   display: inline-block;
-  padding: 3px 10px;
+  padding: 2px 10px;
   border: 2px solid;
   text-decoration: none;
-  border-radius: 30px;
-  font-weight: 500;
+  border-radius: 15px;
+  font-weight: 450;
   font-size: 0.8rem;
 }
 
 .cbtn:hover {
-  background-color: var(--global-card-bg-color);
+  text-color: var(--global-hover-color);
   border-color: var(--global-hover-color);
 }
 
