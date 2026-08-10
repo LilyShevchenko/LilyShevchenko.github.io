@@ -80,9 +80,9 @@ html[data-theme="dark"] {
   --global-code-bg-color: #{$carbon-black-color};
   --global-text-color: #{$bright-snow-color};
   --global-text-color-light: #{$bright-snow-color};
-  --global-theme-color: #{$pale-sky-color};
-  --global-hover-color: #{$bright-ocean-color};
-  --global-hover-text-color: #{$bright-ocean-color};
+  --global-theme-color: #{$bright-ocean-color};
+  --global-hover-color: #{$pale-sky-color};
+  --global-hover-text-color: #{$pale-sky-color};
   --global-footer-bg-color: #{$carbon-black-color};
   --global-footer-text-color: #{$bright-snow-color};
   --global-footer-link-color: #{$pale-sky-color};
@@ -154,7 +154,7 @@ html[data-theme="light"] {
   --global-footer-link-color: #{$baltic-blue-color};
   --global-distill-app-color: #{$carbon-black-color};
   --global-divider-color: rgba(0, 0, 0, 0.1);
-  --global-card-bg-color: #{$pale-sky-color};
+  --global-card-bg-color: #{$grey-color-light};
   --global-back-to-top-bg-color: rgba(
     #{color.channel($white-color, "red", $space: rgb)},
     #{color.channel($white-color, "green", $space: rgb)},
