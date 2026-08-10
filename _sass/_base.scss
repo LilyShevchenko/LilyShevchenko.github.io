@@ -163,7 +163,8 @@ ul.task-list input[type="checkbox"] {
 }
 
 .cbtn:hover {
-  background-color: var(--global-hover-color);
+  background-color: var(--global-card-bg-color);
+  border-color: var(--global-hover-color);
 }
 
 // Math
