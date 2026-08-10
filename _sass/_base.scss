@@ -40,8 +40,8 @@ table.table a {
   color: var(--global-theme-color);
 
   &:hover {
-    color: var(--global-theme-color);
-    text-decoration: underline;
+    color: var(--global-hover-color);
+    text-decoration: none;
   }
 
   &:hover:after :not(.nav-item.dropdown) {
@@ -163,7 +163,7 @@ ul.task-list input[type="checkbox"] {
 }
 
 .cbtn:hover {
-  text-color: var(--global-hover-color);
+  color: var(--global-hover-color);
   border-color: var(--global-hover-color);
 }
 
