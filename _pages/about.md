@@ -15,11 +15,13 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am a third year PhD student in Economics in **[University of Warwick](https://warwick.ac.uk/)** and a Junior Fellow at the **Centre for Advantage in the Global Economy ([CAGE](https://warwick.ac.uk/fac/soc/economics/research/centres/cage/))**.
+I am a fourth year PhD student in Economics in **[University of Warwick](https://warwick.ac.uk/)** and a Junior Fellow at the **Centre for Advantage in the Global Economy ([CAGE](https://warwick.ac.uk/fac/soc/economics/research/centres/cage/))**.
 
 I am primarily interested in political economy and applied microeconomics. My research uses unconventional data and natural language processing techniques to study how norms, culture and institutions impact economic outcomes.
 
-My academic advisors are Thiemo Fetzer, Mirko Draca and Sascha Becker.
+I am on the job market in the 2026/27 academic year.
+
+My advisors are Thiemo Fetzer, Mirko Draca and Sascha Becker.
 
 **Email:** liliia.shevchenko@warwick.ac.uk
 
