@@ -26,4 +26,4 @@ My advisors are Thiemo Fetzer, Mirko Draca and Sascha Becker.
 **Email:** liliia.shevchenko@warwick.ac.uk
 
 <a href="https://warwick.ac.uk/fac/soc/economics/staff/lshevchenko/" class="cbtn">Department page</a>
-<a href="https://lilyshevchenko.github.io/assets/pdf/cv_jul26.pdf" class="cbtn">CV</a>
+<a href="https://lilyshevchenko.github.io/assets/pdf/lilyshevchenko-cv.pdf" class="cbtn">CV</a>
